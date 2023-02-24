@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Logical Program");
+            //Console.WriteLine("Welcome to Logical Program");
+            FibanaucciSeries.Fibanaucci_Series();
         }
     }
 }
